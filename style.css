@@ -142,3 +142,12 @@ footer {
   font-family: "Roboto", "Nunito", "Arial", sans-serif;
   font-size: 0.7rem;
 }
+
+@media (max-width: 480px){
+  .container {
+    width: 90%;
+   
+  }
+
+
+}
